@@ -1,11 +1,9 @@
 
-<h1 align="center">Town of Host: Enhanced (TOHE)</h1>
+<h1 align="center">Town of Host: Donkhanced (TOHD)</h1>
 
 <br>
 
-<img align="left" alt="Cover" src="Resources/Background/TOHE-Background-Old.jpg" width="50%" height="300" /> 
 
-<p align="right">
   
 > ### Regarding this mod
 >
@@ -14,12 +12,6 @@
 
 </p>
 <p align="center">
-
-<center>
-<a href="https://weareten.ca/" target="_blank"><img src="https://img.shields.io/badge/Website%20-%231DA1F2.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white&color=3aa675"/></a>
-<a href="https://discord.gg/tohe" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5662f6"/></a>
-<a href="https://github.com/0xDrMoe/TownofHost-Enhanced/releases/latest" target="_blank"><img src="https://img.shields.io/badge/Latest Version%20-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
-</center>
 
 
 
@@ -110,17 +102,17 @@
 
 # Legal License Notice
 
-This project utilizes a third-party API, custom-coded by The Enhanced Network. founded by Moe Wehbeh, which is not subject to the GPL 3.0 license. However, please be aware that the project itself, including any modifications, additions, or integrations made to interact with the API, is governed by the terms of the GNU General Public License version 3.0 (GPL-3.0).
+This project utilizes a third-party API(for now), custom-coded by The Enhanced Network. founded by Moe Wehbeh, which is not subject to the GPL 3.0 license. However, please be aware that the project itself, including any modifications, additions, or integrations made to interact with the API, is governed by the terms of the GNU General Public License version 3.0 (GPL-3.0).
 
 ## Licensing Information
 
-This project is licensed under the GNU General Public License version 3.0. For more details, please refer to the [LICENSE](https://github.com/0xDrMoe/TownofHost-Enhanced/blob/main/LICENSE) file.
+This project is licensed under the GNU General Public License version 3.0. For more details, please refer to the [LICENSE](https://github.com/MrDonkus/TownofHost-Donkhanced/blob/main/LICENSE) file.
 
 ### Third-Party API Access
 
-To obtain an API token for this project, you must join our Discord server and open a ticket. Follow the steps below:
+To obtain an API token for this project, you must join the Discord server and open a ticket. Follow the steps below:
 
-1. **Join our Discord Server:**
+1. **Join the tohe Discord Server:**
    https://discord.gg/tohe
 
 2. **Open a Ticket:**
